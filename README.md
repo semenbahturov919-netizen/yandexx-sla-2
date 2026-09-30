@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/32857488/README.1.md)
+
 # yandexx-sla-2# admin-guide
 
 Руководство администратора
